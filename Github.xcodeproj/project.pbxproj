@@ -13,6 +13,7 @@
 		944EC6ED27156DE4007B79E0 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 944EC6EB27156DE4007B79E0 /* Main.storyboard */; };
 		944EC6EF27156DE6007B79E0 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 944EC6EE27156DE6007B79E0 /* Assets.xcassets */; };
 		944EC6F227156DE6007B79E0 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 944EC6F027156DE6007B79E0 /* LaunchScreen.storyboard */; };
+		944EC6FA271572CB007B79E0 /* DosomethingViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 944EC6F9271572CB007B79E0 /* DosomethingViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		944EC6EE27156DE6007B79E0 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		944EC6F127156DE6007B79E0 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		944EC6F327156DE6007B79E0 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		944EC6F9271572CB007B79E0 /* DosomethingViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DosomethingViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				944EC6E527156DE3007B79E0 /* AppDelegate.swift */,
 				944EC6E727156DE3007B79E0 /* SceneDelegate.swift */,
 				944EC6E927156DE4007B79E0 /* ViewController.swift */,
+				944EC6F9271572CB007B79E0 /* DosomethingViewController.swift */,
 				944EC6EB27156DE4007B79E0 /* Main.storyboard */,
 				944EC6EE27156DE6007B79E0 /* Assets.xcassets */,
 				944EC6F027156DE6007B79E0 /* LaunchScreen.storyboard */,
@@ -139,6 +142,7 @@
 			files = (
 				944EC6EA27156DE4007B79E0 /* ViewController.swift in Sources */,
 				944EC6E627156DE3007B79E0 /* AppDelegate.swift in Sources */,
+				944EC6FA271572CB007B79E0 /* DosomethingViewController.swift in Sources */,
 				944EC6E827156DE4007B79E0 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
